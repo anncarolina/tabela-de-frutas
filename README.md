@@ -1,2 +1,2 @@
 # tabela de frutas
- tabela de frutas com preços em html
+ tabela de frutas em html com preços
